@@ -1,4 +1,4 @@
-FROM pmasala/entando-docker-base-image-432
+FROM pmasala/entando-base-image-432
 
 LABEL mainteiner="Pietrangelo Masala <p.masala@entando.com>"
 
