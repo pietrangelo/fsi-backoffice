@@ -1,6 +1,6 @@
 FROM pmasala/entando-base-image-432
 
-LABEL mainteiner="Pietrangelo Masala <p.masala@entando.com>"
+LABEL maintainer="Pietrangelo Masala <p.masala@entando.com>"
 
 COPY filter-development-unix.properties /opt/entando/filter-development-unix.properties
 
